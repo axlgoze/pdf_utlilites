@@ -13,6 +13,6 @@ def unir_pdf(pdf_files, output_file):
 
 # Uso del programa
 pdf_files = ["doc1.pdf", "doc2.pdf"]
-output_file = "CV_Brayan_Axel_Reyes_Flores.pdf"
+output_file = "mergedFile.pdf"
 unir_pdf(pdf_files, output_file)
 
