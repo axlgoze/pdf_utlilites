@@ -14,7 +14,7 @@ def rotar_pdf(input_file, output_file):
     pdf_document.close()
 
 # Uso del programa
-input_file = "all.pdf"
-output_file = "all_rotado.pdf"
+input_file = "doc1.pdf"
+output_file = "rotatedFile.pdf"
 rotar_pdf(input_file)
 
